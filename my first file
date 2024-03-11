@@ -3,5 +3,6 @@ using namespace std;
 int main()
 { 
 cout<<"the sum of two number :"<<a+b;
+cout<<"the sub of two number :"<<a-b;
 return 0;
 }
